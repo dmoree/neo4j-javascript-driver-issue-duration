@@ -1,0 +1,18 @@
+{
+  "name": "neo4j-javascript-driver-issue-duration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmoree/neo4j-javascript-driver-issue-duration.git"
+  },
+  "author": "dmoree",
+  "license": "ISC",
+  "dependencies": {
+    "neo4j-driver": "^4.3.3"
+  }
+}
